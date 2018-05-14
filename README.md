@@ -10,5 +10,7 @@ golang installed see https://golang.org/doc/install
 $ go run webServer.go
 ```
 Hello world from golang
+
 Server listing on http://localhost:8080
+
 CTRL C to exit
